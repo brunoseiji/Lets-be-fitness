@@ -4,4 +4,4 @@ Projeto que estou desenvolvendo para aplicar meus conhecimentos utilizando [Reac
 
 * ReactJS
 * React icons
-* React route dom
+* React router dom
